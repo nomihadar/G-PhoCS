@@ -5,7 +5,7 @@ G-PhoCS is a software package for inferring ancestral population sizes, populati
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="UML diagram.png">
 </p>
 
 U
