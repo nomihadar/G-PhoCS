@@ -11,7 +11,7 @@ Additional adjustments were made to the C implementation of MCMCcoal in order to
 
 More information on G-PhoCS can be found in Section 4 of the [supplement](http://www.nature.com/ng/journal/v43/n10/extref/ng.937-S1.pdf) to our [paper](http://www.nature.com/ng/journal/v43/n10/full/ng.937.html), and in the G-PhoCS user [manual](https://github.com/gphocs-dev/G-PhoCS/blob/master/G-PhoCS/GPhoCS_Manual.pdf).
 
-For more information: [http://compgen.cshl.edu/GPhoCS/](http://compgen.cshl.edu/GPhoCS/)
+For more information: [src/](src)
 
 
 Installation (Unix only for now)
