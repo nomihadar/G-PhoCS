@@ -5,7 +5,7 @@ G-PhoCS
 As a research assistance of Dr. Gronau, I developed the next version of G-PhoCS - v140 (not released yet).
 
 The main updates in version v140 include redesigning fundamental data structures. New design is OOP oriented. <br>
-Here is a [document file](https://github.com/nomihadar/G-PhoCS/blob/v140/G_PhoCS%201.40V%20Doc%20November%202019.pdf) I wrote.
+Here is a [document file](G_PhoCS_1.40V_Doc.pdf) I wrote.
 
 ### New files in version v140:
 
