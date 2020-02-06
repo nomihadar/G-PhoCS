@@ -7,12 +7,12 @@ As a research assistance of Dr. Gronau, I developed the next version of G-PhoCS,
 The main updates in version v140 include redesigning fundamental data structures. New design is OOP oriented.<br>
 Here is a [document file](https://github.com/nomihadar/G-PhoCS/blob/v140/G_PhoCS%201.40V%20Doc%20November%202019.pdf) I wrote.
 
-Below is an **UML diagram** shows the high level picture of the relationships between the new classes. 
+Below is an **UML diagram** shows the high level picture of the relationships between the new classes. <br><br>
 
 <p align="center">
   <img width="800" height="600" src="UML diagram.png">
 </p>
-
+<br>
 
 New files in version v140:
 ---------------
