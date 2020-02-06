@@ -10,9 +10,9 @@ G-PhoCS is a software package for inferring ancestral population sizes, populati
 
 Files I wrote (rest were not written by me):
 
-[AllLoci.h](src/AllLoci.h)/[.cpp](src/AllLoci.cpp) <br>
-[GenealogyStats.h](src/GenealogyStats.h) <br>
-[LocusEmbeddedGenealogy.h](src/LocusEmbeddedGenealogy.h) / [LocusEmbeddedGenealogy.cpp](src/LocusEmbeddedGenealogy.cpp) <br>
+AllLoci [.h](src/AllLoci.h)/[.cpp](src/AllLoci.cpp) <br>
+GenealogyStats [.h](src/GenealogyStats.h) <br>
+LocusEmbeddedGenealogy [.h](src/LocusEmbeddedGenealogy.h)/[.cpp](src/LocusEmbeddedGenealogy.cpp) <br>
 [LocusGenealogy.h](src/LocusGenealogy.h) / [LocusGenealogy.cpp](src/LocusGenealogy.cpp) <br>
 [LocusPopIntervals.h](src/LocusPopIntervals.h) / [LocusPopIntervals.cpp](src/LocusPopIntervals.cpp) <br>
 [PopInterval.h](src/PopInterval.h) / [PopInterval.cpp](src/PopInterval.cpp) <br>
