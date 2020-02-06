@@ -13,10 +13,10 @@ Files I wrote (rest were not written by me):
 AllLoci [.h](src/AllLoci.h)/[.cpp](src/AllLoci.cpp) <br>
 GenealogyStats [.h](src/GenealogyStats.h) <br>
 LocusEmbeddedGenealogy [.h](src/LocusEmbeddedGenealogy.h)/[.cpp](src/LocusEmbeddedGenealogy.cpp) <br>
-[LocusGenealogy.h](src/LocusGenealogy.h) / [LocusGenealogy.cpp](src/LocusGenealogy.cpp) <br>
-[LocusPopIntervals.h](src/LocusPopIntervals.h) / [LocusPopIntervals.cpp](src/LocusPopIntervals.cpp) <br>
-[PopInterval.h](src/PopInterval.h) / [PopInterval.cpp](src/PopInterval.cpp) <br>
-[TreeNode.h](src/TreeNode.h) / [TreeNode.cpp](src/TreeNode.cpp) <br>
+LocusGenealogy [.h](src/LocusGenealogy.h)/[.cpp](src/LocusGenealogy.cpp) <br>
+LocusPopIntervals [.h](src/LocusPopIntervals.h)/[.cpp](src/LocusPopIntervals.cpp) <br>
+PopInterval [.h](src/PopInterval.h)/[.cpp](src/PopInterval.cpp) <br>
+TreeNode [.h](src/TreeNode.h)/[.cpp](src/TreeNode.cpp) <br>
 
 
 UML diagram of classes I created:
