@@ -1,15 +1,14 @@
 G-PhoCS
 =======
 
-[G-PhoCS](https://github.com/gphocs-dev/G-PhoCS) iis a software package for inferring ancestral population sizes, population divergence times, and migration rates from individual genome sequences, developed by Dr. Ilan Gronau from the IDC Herzliya.
+[G-PhoCS](https://github.com/gphocs-dev/G-PhoCS) is a software package for inferring ancestral population sizes, population divergence times, and migration rates from individual genome sequences. <br>
+G-PhoCS was developed by Dr. Ilan Gronau from the IDC Herzliya. <br>
 As a research assistance of Dr. Ilan Gronau, I developed the next version of G-PhoCS, v140 (not released yet).
 
-The main updates in version v140 include of redesigning fundamental data structures. New design is OOP oriented.
+The main updates in version v140 include of redesigning fundamental data structures. New design is OOP oriented.<br>
+Here is a [document file](G_PhoCS 1.40V Doc November 2019.pdf) I wrote.
 
-Below is an UML diagram shows the high level picture of the relationships between the new classes. In general, new data structure consists of two main components: genealogy and intervals chains (i.e., chains of events).
-
-
-UML diagram of classes I created:
+Below is an **UML diagram** shows the high level picture of the relationships between the new classes. 
 
 <p align="center">
   <img width="800" height="600" src="UML diagram.png">
